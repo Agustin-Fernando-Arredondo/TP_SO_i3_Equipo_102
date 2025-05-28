@@ -1,0 +1,62 @@
+
+Nombre de host:                            CESAR
+Nombre del sistema operativo:              Microsoft Windows 11 Pro
+Versi¢n del sistema operativo:             10.0.26100 N/D Compilaci¢n 26100
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuraci¢n del sistema operativo:       Estaci¢n de trabajo independiente
+Tipo de compilaci¢n del sistema operativo: Multiprocessor Free
+Propietario registrado:                    User
+Organizaci¢n registrada:                   
+Id. del producto:                          00330-80000-00000-AA654
+Fecha de instalaci¢n original:             6/5/2025, 04:19:35
+Tiempo de arranque del sistema:            21/5/2025, 08:32:30
+Fabricante del sistema:                    ASUS
+Modelo del sistema:                        System Product Name
+Tipo de sistema:                           x64-based PC
+Procesadores:                              1 Procesadores instalados.
+                                           [01]: AMD64 Family 25 Model 80 Stepping 0 AuthenticAMD ~3801 Mhz
+Versi¢n del BIOS:                          American Megatrends Inc. 3621, 13/1/2025
+Directorio de Windows:                     C:\Windows
+Directorio de sistema:                     C:\Windows\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume3
+Configuraci¢n regional del sistema:        es;Espa¤ol (internacional)
+Idioma de entrada:                         es-mx;Espa¤ol (M‚xico)
+Zona horaria:                              (UTC-03:00) Ciudad de Buenos Aires
+Memoria f¡sica total:                      16.179 MB
+Memoria f¡sica disponible:                 9.874 MB
+Memoria virtual: tama¤o m ximo:            17.203 MB
+Memoria virtual: disponible:               8.071 MB
+Memoria virtual: en uso:                   9.132 MB
+Ubicaciones de archivos de p gina:         C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesi¢n:              \\CESAR
+Revisiones:                                3 revisi¢n(es) instaladas.
+                                           [01]: KB5054979
+                                           [02]: KB5058411
+                                           [03]: KB5058523
+Tarjetas de red:                           2 Tarjetas de interfaz de red instaladas.
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nombre de conexi¢n: Ethernet
+                                                 DHCP habilitado:    S¡
+                                                 Servidor DHCP:      192.168.1.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.1.78
+                                                 [02]: fe80::145e:8be9:dc93:d666
+                                                 [03]: 2802:8010:7143:cf00:8535:3f5d:2402:8e87
+                                                 [04]: 2802:8010:7143:cf00:7885:461f:815c:f0a2
+                                                 [05]: 2802:8010:7143:cf00:6c12:c348:2e3b:4908
+                                                 [06]: 2802:8010:7143:cf00:49ec:f35c:3a42:fa29
+                                           [02]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexi¢n: Ethernet 2
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.56.1
+                                                 [02]: fe80::a0da:5cf6:3ab1:cc8c
+Seguridad basada en virtualizaci¢n:        Estado:ÿNo habilitado
+                                           App Control for Business policy: Forzado
+                                           App Control for Business user mode policy: Auditor¡a
+                                           Caracter¡sticas de seguridad habilitadas:
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: S¡
+                                           Se habilit¢ la virtualizaci¢n en el firmware: S¡
+                                           Traducci¢n de direcciones de segundo nivel: S¡
+                                           La prevenci¢n de ejecuci¢n de datos est  disponible: S¡
