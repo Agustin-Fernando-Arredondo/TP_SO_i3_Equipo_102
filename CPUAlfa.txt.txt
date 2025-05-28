@@ -1,0 +1,70 @@
+Nombre de host:                            ENOVA14
+Nombre del sistema operativo:              Microsoft Windows 11 Home Single Language
+Versión del sistema operativo:             10.0.26100 N/D Compilación 26100
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuración del sistema operativo:       Estación de trabajo independiente
+Tipo de compilación del sistema operativo: Multiprocessor Free
+Propietario registrado:                    lorenaacaputa@gmail.com
+Organización registrada:                   N/D
+Id. del producto:                          00327-30000-00000-AAOEM
+Fecha de instalación original:             16/2/2025, 11:34:18
+Tiempo de arranque del sistema:            21/5/2025, 15:12:26
+Fabricante del sistema:                    Novatech
+Modelo del sistema:                        C141EK5-I5ST
+Tipo de sistema:                           x64-based PC
+Procesadores:                              1 Procesadores instalados.
+                                           [01]: Intel64 Family 6 Model 126 Stepping 5 GenuineIntel ~1098 Mhz
+Versión del BIOS:                          American Megatrends Inc. ICL_IC525_V1.0.5, 15/11/2023
+Directorio de Windows:                     C:\WINDOWS
+Directorio de sistema:                     C:\WINDOWS\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume1
+Configuración regional del sistema:        es;Español (internacional)
+Idioma de entrada:                         es-mx;Español (México)
+Zona horaria:                              (UTC-03:00) Ciudad de Buenos Aires
+Memoria física total:                      7.931 MB
+Memoria física disponible:                 1.790 MB
+Memoria virtual: tamaño máximo:            13.441 MB
+Memoria virtual: disponible:               4.469 MB
+Memoria virtual: en uso:                   8.972 MB
+Ubicaciones de archivos de página:         C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesión:              \\ENOVA14
+Revisiones:                                4 revisión(es) instaladas.
+                                           [01]: KB5054979
+                                           [02]: KB5058411
+                                           [03]: KB5058538
+                                           [04]: KB5058523
+Tarjetas de red:                           3 Tarjetas de interfaz de red instaladas.
+                                           [01]: Qualcomm Atheros QCA9377 Wireless Network Adapter
+                                                 Nombre de conexión: Wi-Fi 2
+                                                 DHCP habilitado:    Sí
+                                                 Servidor DHCP:      192.168.0.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.0.249
+                                                 [02]: fe80::170c:8b1c:264a:152d
+                                           [02]: Bluetooth Device (Personal Area Network)
+                                                 Nombre de conexión: Conexión de red Bluetooth 2
+                                                 Estado:             Medios desconectados
+                                           [03]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexión: Ethernet 3
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.56.1
+                                                 [02]: fe80::4cfe:e2f6:1c2b:2e39
+Seguridad basada en virtualización:        Estado: En ejecución
+                                           Propiedades de seguridad requeridas:
+                                           Propiedades de seguridad disponibles:
+                                                 Compatibilidad con la virtualización base
+                                                 Protección de DMA
+                                                 Código UEFI de solo lectura
+                                                 SMM Security Mitigations 1.0
+                                                 Control de ejecución basado en el modo
+                                                 Virtualización de APIC
+                                           Services Configured:
+                                                 Integridad del código reforzada por el hipervisor
+                                           Services Running:
+                                                 Integridad del código reforzada por el hipervisor
+                                           App Control for Business policy: Forzado
+                                           App Control for Business user mode policy: Desactivado
+                                           Características de seguridad habilitadas:
+Requisitos Hyper-V:                        Se detectó un hipervisor. No se mostrarán las características necesarias para Hyper-V.
