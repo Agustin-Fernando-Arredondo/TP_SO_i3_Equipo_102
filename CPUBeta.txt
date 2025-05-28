@@ -22,10 +22,10 @@ Configuración regional del sistema:        es;Español (internacional)
 Idioma de entrada:                         es-mx;Español (México)
 Zona horaria:                              (UTC-03:00) Ciudad de Buenos Aires
 Memoria física total:                      14,265 MB
-Memoria física disponible:                 6,929 MB
+Memoria física disponible:                 7,396 MB
 Memoria virtual: tamaño máximo:            20,153 MB
-Memoria virtual: disponible:               8,919 MB
-Memoria virtual: en uso:                   11,234 MB
+Memoria virtual: disponible:               9,605 MB
+Memoria virtual: en uso:                   10,548 MB
 Ubicaciones de archivos de página:         C:\pagefile.sys
 Dominio:                                   WORKGROUP
 Servidor de inicio de sesión:              \\AGUSWRITER
