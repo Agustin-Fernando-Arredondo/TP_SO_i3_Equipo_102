@@ -50,3 +50,38 @@ Adaptador de Ethernet Ethernet 2:
    Máscara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . :
 12.27hs 4/6
+
+Franco Cistaro
+Configuración ip: 
+
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet 3:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::4cfe:e2f6:1c2b:2e39%2
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Wi-Fi 2:
+
+   Sufijo DNS específico para la conexión. . : fibertel.com.ar
+   Vínculo: dirección IPv6 local. . . : fe80::170c:8b1c:264a:152d%11
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.249
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+hora: 12:38
