@@ -1,0 +1,28 @@
+Agustin Arredondo
+ipconfig:
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : fibertel.com.ar
+   Dirección IPv6 . . . . . . . . . . : 2800:2130:5240:99c::7421
+   Dirección IPv6 . . . . . . . . . . : 2800:2130:5240:99c:3c45:64bd:2f6c:19d0
+   Dirección IPv6 temporal. . . . . . : 2800:2130:5240:99c:46c:451f:f630:7bc5
+   Dirección IPv6 temporal. . . . . . : 2800:2130:5240:99c:914a:fc54:9b13:965e
+   Dirección IPv6 temporal. . . . . . : 2800:2130:5240:99c:bdc9:69c9:47ff:de35
+   Vínculo: dirección IPv6 local. . . : fe80::e1b3:247f:614d:c145%4
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.99
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::10:18ff:fe54:5c84%4
+                                       192.168.0.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::3cdf:3ac6:3bb7:64ee%3
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+12:29
