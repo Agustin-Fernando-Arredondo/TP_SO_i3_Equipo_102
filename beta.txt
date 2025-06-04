@@ -26,3 +26,27 @@ Adaptador de Ethernet Ethernet 2:
    Puerta de enlace predeterminada . . . . . :
 
 12:29
+
+Caceres Teo.
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : Home
+   Dirección IPv6 . . . . . . . . . . : 2802:8010:7103:400:ece4:729d:116a:c93d
+   Dirección IPv6 temporal. . . . . . : 2802:8010:7103:400:2cb3:3d0b:b210:f9d3
+   Vínculo: dirección IPv6 local. . . : fe80::145e:8be9:dc93:d666%6
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.78
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::463b:14ff:fe05:e368%6
+                                       192.168.1.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::a0da:5cf6:3ab1:cc8c%4
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+12.27hs 4/6
