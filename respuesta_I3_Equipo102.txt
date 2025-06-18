@@ -4,6 +4,16 @@ b- Si, pude ver todos los cambios realizados en cada rama y en el merge final.
 
 c- git branch -a, git checkout main, git merge Caceres (resuelvo conflictos en la terminal) y hago git push origin main
 
+d- no hay que hacer un pull request
+
+e- no sabíamos como unir las correcciones.
+
+f- . git checkout Arredondo
+   . echo "nombre, apellido, ip" >> beta.txt
+   . git add .
+   . git commit
+   . git push Arredondo
+
 G- . git checkout Arredondo
    . echo "nombre, apellido, ip" >> beta.txt
    . git add .
