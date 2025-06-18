@@ -1,0 +1,5 @@
+a- El master está compuesto por CPUAlfa.txt, CPUBeta.txt, CPUGamma.txt, el readme, beta.txt y datos.txt
+
+b- Si, pude ver todos los cambios realizados en cada rama y en el merge final.
+
+c- git branch -a, git checkout main, git merge Caceres (resuelvo conflictos en la terminal) y hago git push origin main
